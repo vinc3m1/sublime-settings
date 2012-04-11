@@ -9,9 +9,6 @@
 	{ "keys": ["ctrl+."], "command": "show_panel", "args": {"panel": "console"} },
 	/* Dublicate line */
 	{ "keys": ["super+alt+down"], "command": "duplicate_line" },
-	/* Set bookmark */
-	{ "keys": ["super+k"], "command": "set_mark" },
-	/* Goto Documentation */
-	{ "keys": ["super+shift+h"], "command": "goto_documentation" },
+	
 	{  "keys": ["ctrl+super+r"], "command": "reveal_in_side_bar" }
 ]

@@ -11,7 +11,7 @@
 			<dict>
 				<!-- from monokai soda -->
 				<key>background</key>
-				<string>#222222</string>
+				<string>#111111</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
