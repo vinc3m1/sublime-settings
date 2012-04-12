@@ -10,5 +10,29 @@
 	/* Dublicate line */
 	{ "keys": ["super+alt+down"], "command": "duplicate_line" },
 	
-	{  "keys": ["ctrl+super+r"], "command": "reveal_in_side_bar" }
+	{  "keys": ["ctrl+super+r"], "command": "reveal_in_side_bar" },
+
+	{ "keys": ["j", "j"], "command": "exit_insert_mode",
+	"context":
+		[
+			{ "key": "setting.command_mode", "operand": false },
+			{ "key": "setting.is_widget", "operand": false }
+		]
+	},
+
+    {"keys": ["ctrl+u"], "command": "scroll_lines",
+        "args": {"amount": 40.0},
+        "context":
+            [
+                { "key": "setting.command_mode" }
+            ]
+    },
+
+   {"keys": ["ctrl+d"], "command": "scroll_lines",
+        "args": {"amount": -40.0},
+        "context":
+            [
+                {"key": "setting.command_mode"}
+            ]
+    }
 ]
