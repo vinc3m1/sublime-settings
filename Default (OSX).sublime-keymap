@@ -34,5 +34,6 @@
             [
                 {"key": "setting.command_mode"}
             ]
-    }
+    },
+    { "keys": ["ctrl+shift+,"], "command": "insert_as_tag"}
 ]
