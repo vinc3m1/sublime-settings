@@ -11,5 +11,7 @@
 	"vintage_start_in_command_mode": true,
 	"wide_caret": true,
 	"word_wrap": false,
-	"auto_complete": false
+	"auto_complete": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true
 }
