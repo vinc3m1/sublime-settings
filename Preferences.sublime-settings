@@ -1,17 +1,18 @@
 {
+	"auto_complete": false,
 	"color_scheme": "Packages/User/IR_Black.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Monaco",
 	"font_size": 12,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		""
 	],
+	"tab_size": 4,
 	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
 	"vintage_start_in_command_mode": true,
 	"wide_caret": true,
-	"word_wrap": false,
-	"auto_complete": false,
-	"tab_size": 4,
-	"translate_tabs_to_spaces": true
+	"word_wrap": false
 }
