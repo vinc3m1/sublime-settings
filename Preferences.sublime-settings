@@ -14,6 +14,5 @@
 	"translate_tabs_to_spaces": true,
 	"vintage_start_in_command_mode": true,
 	"wide_caret": true,
-	"word_wrap": false,
-	"preview_on_click": false
+	"word_wrap": false
 }
