@@ -4,14 +4,15 @@
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Monaco",
-	"font_size": 12,
+	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		""
 	],
 	"tab_size": 4,
-	"theme": "Soda Dark.sublime-theme",
+	"theme": "Flatland Dark.sublime-theme",
+	"flatland_square_tabs": true,
 	"translate_tabs_to_spaces": true,
 	"vintage_start_in_command_mode": true,
 	"wide_caret": true,
